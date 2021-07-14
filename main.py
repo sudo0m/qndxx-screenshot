@@ -6,7 +6,6 @@ import re
 import json
 import os
 
-global openid, ua, xm, sjhm, dw, tzb, zzbh
 
 ua = "Mozilla/5.0 (Linux; Android 9; QNDXX 666 Pro Build/PKQ1.180917.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 MQQBrowser/6.2 TBS/045111 Mobile Safari/537.36 MMWEBID/3667 MicroMessenger/7.0.14.1660(0x27000E37) Process/tools NetType/4G Language/zh_CN ABI/arm64 WeChat/arm64"  # 模拟微信UA
 root_url = "http://qndxx.youth54.cn"  # 根地址
