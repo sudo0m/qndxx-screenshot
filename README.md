@@ -3,4 +3,6 @@
 
 修改了一下原作者发布的代码，只获取截图功能
 
+下载 ： https://github.com/sudo0m/qndxx-screenshot/releases/
+
 原 https://wp.for-get.com/143.html https://wp.for-get.com/349.html
